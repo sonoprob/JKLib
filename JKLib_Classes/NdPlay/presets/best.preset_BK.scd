@@ -1,0 +1,1 @@
+List[ ('curr' -> [ [ 'freq', 440 ], [ 'pmspeed', 0.01 ], [ 'pmwidth', 0.5 ], [ 'amp', 0.5 ] ]) ]
